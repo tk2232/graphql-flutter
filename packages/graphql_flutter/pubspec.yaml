@@ -6,6 +6,11 @@ publish_to: none
 dependencies:
   graphql: # 5.0.0
     path: ../graphql
+  graphql_flutter:
+    git:
+      url: https://github.com/tk2232/graphql-flutter.git
+      ref: beta
+      path: packages/graphql
   gql_exec: 0.3.0
   flutter:
     sdk: flutter
