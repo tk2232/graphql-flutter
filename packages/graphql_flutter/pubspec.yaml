@@ -4,8 +4,6 @@ version: 5.0.0
 homepage: https://github.com/zino-app/graphql-flutter/tree/master/packages/graphql_flutter
 publish_to: none
 dependencies:
-  graphql: # 5.0.0
-    path: ../graphql
   graphql_flutter:
     git:
       url: https://github.com/tk2232/graphql-flutter.git
